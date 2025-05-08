@@ -23,8 +23,8 @@ class OllamaLLM(LLM):
         text=True,
         stdout=subprocess.PIPE,
         stderr=subprocess.PIPE,
-        encoding="utf-8",  # 👈 This is the fix
-        errors="ignore"    # 👈 Optional: skip over bad characters
+        encoding="utf-8", 
+        errors="ignore"    
     )
         if result.returncode != 0:
             raise RuntimeError(f"Ollama failed: {result.stderr}")
