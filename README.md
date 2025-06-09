@@ -16,7 +16,7 @@ React.js frontend with a chat-style interface
 
 Supports local LLMs using Ollama
 
-
+Demo : https://drive.google.com/file/d/1YntxEK5X72mPFMthixuGz4mQeH_PAHWe/view?usp=drive_link
 
 🛠️ Installation Guide
 📦 Backend Setup (FastAPI + NLP)
