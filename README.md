@@ -1,4 +1,4 @@
-# AI-PLANET
+# ASK-Docs-AI
 An AI-powered chat application that reads PDF documents and allows users to ask questions about their content in natural language.
 
 🚀 Features
